@@ -1,4 +1,4 @@
-Class Example
+class Example
 {
 
 }
